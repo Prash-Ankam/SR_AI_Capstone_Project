@@ -49,7 +49,7 @@ Describes entire spectral in 12 distinct semitones of musical octave
 ![image](https://user-images.githubusercontent.com/47745543/82432204-538d2480-9aad-11ea-9b09-12a6bbbee4dd.png)
 
 
-### - After taking required features.The Process is as follows:
+### After taking required features.The Process is as follows:
 
    Extracting the Spectrogram for every Audio
    
