@@ -15,7 +15,7 @@ It contains 10 genres, each represented by 100 tracks.
 The tracks are all 22050Hz Mono 16-bit audio files in .wav format.
 The size of the dataset is 1.2GB
 
-   DataSet link is [here](#https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)
+   DataSet link is [here](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)
 
 ### Data Set Source
 The dataset has been procured from Marsyas (Music Analysis, Retrieval and Synthesis for Audio Signals) is an open source software framework 
