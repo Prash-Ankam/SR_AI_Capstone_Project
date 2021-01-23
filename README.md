@@ -66,7 +66,7 @@ Describes entire spectral in 12 distinct semitones of musical octave
 
    Neural Network used: ANN
    
-   optimiser used : Adam
+   Optimizer used : Adam
 
 
 
