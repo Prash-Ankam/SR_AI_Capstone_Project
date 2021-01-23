@@ -52,15 +52,20 @@ Describes entire spectral in 12 distinct semitones of musical octave
 ### - After taking required features.The Process is as follows:
 
    Extracting the Spectrogram for every Audio
+   
    Extracting Features from Spectrogram
+   
    Writing data to csv file
+   
    Encoding the Labels
+   
    Scaling the Feature columns
    
    
 ### The Model
 
    Neural Network used: ANN
+   
    optimiser used : Adam
 
 
