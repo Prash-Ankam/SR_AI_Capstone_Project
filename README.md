@@ -1,7 +1,7 @@
-###### SR_AI_Capstone_Project
+# SR_AI_Capstone_Project
 
 
-# Music Genre Classification From Audio Files
+## Music Genre Classification From Audio Files
 
 ### Objective:
 - To analyse & extract the features from Audio Files
@@ -45,11 +45,9 @@ Small set of features which describe the shape of spectral signal
 Describes entire spectral in 12 distinct semitones of musical octave
 ![image](https://user-images.githubusercontent.com/47745543/82432204-538d2480-9aad-11ea-9b09-12a6bbbee4dd.png)
 
-### Implementation of Artificial Neural Network:
-Deep Neural Network was implemented, the test accuracy of 0.665 was achieved
 
 
-![image](https://user-images.githubusercontent.com/47745543/82200716-fd897700-991c-11ea-9c6f-7b6b7ab0b5e1.png)
+
 
 
 
