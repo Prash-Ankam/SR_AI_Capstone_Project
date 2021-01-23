@@ -32,7 +32,8 @@ Rate at which the signal changes signs (that is positive to negative)
 ![image](https://user-images.githubusercontent.com/47745543/82431199-fe9cde80-9aab-11ea-8692-6d03900bc8cc.png)
 
 #### - Spectral Centroid: 
-This parameter indicates where the center of mass of the signal is located
+This parameter indicates where the center of mass of the signal is located   
+
 ![image](https://user-images.githubusercontent.com/47745543/82432691-0a89a000-9aae-11ea-883d-0cc6b0ae40c9.png)
 
 #### - Spectral Rolloff:
@@ -46,6 +47,21 @@ Small set of features which describe the shape of spectral signal
 #### - Chroma Frequencies:
 Describes entire spectral in 12 distinct semitones of musical octave
 ![image](https://user-images.githubusercontent.com/47745543/82432204-538d2480-9aad-11ea-9b09-12a6bbbee4dd.png)
+
+
+### - After taking required features.The Process is as follows:
+
+   Extracting the Spectrogram for every Audio
+   Extracting Features from Spectrogram
+   Writing data to csv file
+   Encoding the Labels
+   Scaling the Feature columns
+   
+   
+### The Model
+
+   Neural Network used: ANN
+   optimiser used : Adam
 
 
 
